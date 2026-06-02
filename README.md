@@ -1,1 +1,1 @@
-<img src="./drone.svg" width="100%">
+![Drone](./drone.svg)
