@@ -1,1 +1,1 @@
-<img src="assets/drone.svg" width="100%">
+<img src="./drone.svg" width="100%">
