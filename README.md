@@ -1,1 +1,1 @@
-![](https://raw.githubusercontent.com/cazgal/cazgal/main/drone.svg)
+<img src="https://raw.githubusercontent.com/cazgal/cazgal/main/drone.svg">
